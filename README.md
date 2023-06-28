@@ -39,4 +39,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=as3545&" alt="as3545" /></p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=as3545)
+![trophy](https://github-profile-trophy.vercel.app/?username=as3545&theme=onedark)

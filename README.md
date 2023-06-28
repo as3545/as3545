@@ -46,3 +46,29 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=as3545&" alt="as3545" /></p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=as3545&theme=onedark)
+
+| 🎵 Now Playing                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="54" height="64"></a> |
+
+
+<table>
+  <thead>
+    <tr>
+      <th>📈 Top Tracks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="[https://status.nmoo.dev/top-tracks?i=1&open](https://open.spotify.com/track/2P0KwtuTVip8pZePgx8KGT?si=0c2b1ffc65194c48)"><img src="https://i1.sndcdn.com/artworks-000652677091-r9u7j1-t500x500.jpg" width="50" height="60" alt="Last Man Standing"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="[https://status.nmoo.dev/top-tracks?i=2&open](https://open.spotify.com/track/5GmYaJUYxUhbvPmQQnNHcr?si=2aaa4a993f544f9e)"><img src="https://tse2.mm.bing.net/th?id=OIP.pJVv4Vo8ZW36HV_Ht_ae3QHaHa&pid=Api&P=0&h=180" width="60" height="64" alt="Tide"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="[https://status.nmoo.dev/top-tracks?i=2&open](https://open.spotify.com/track/1CzMb6unWvwNLXyjJwMW9X?si=d65fa250ae5647f3)"><img src="https://sun9-20.userapi.com/impf/c846121/v846121654/14cff9/hprqQkzyPqA.jpg?size=600x600&quality=96&sign=b753c6c6573f8ace4ab6ca0bfafd7154&type=album" width="60" height="64"></a></td>
+    </tr>
+  </tbody>
+</table>

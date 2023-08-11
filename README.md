@@ -19,7 +19,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/as3545](https://github.com/as3545)
 
-- 📫 How to reach me **ahsansultan254@gmail.com**
 
 - ⚡ Fun fact
 
